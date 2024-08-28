@@ -23,6 +23,8 @@ public class FingerprintReader {
             } else {
                 System.out.println("Fingerprint verification failed.");
             }
+
+            
         } else {
             System.out.println("Failed to capture fingerprint.");
         }
